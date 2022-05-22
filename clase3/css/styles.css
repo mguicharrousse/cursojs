@@ -1,0 +1,36 @@
+body{
+  background-image: url("https://lumiere-a.akamaihd.net/v1/images/star-wars-backgrounds-14_856985d9.jpeg");
+  color: white;
+  text-align: center;
+  font-family: 'Anton', sans-serif;
+  letter-spacing: 2px;
+}
+.imperio{
+  background-color: rgb(224, 58, 58);
+}
+.soldados{
+  border: 2px solid;
+  letter-spacing: 10px;
+}
+.rebeldes{
+  background-color: rgb(71, 71, 212);
+}
+#darth_vader{
+  font-size: 30px;
+}
+#luke{
+  font-style: italic;
+}
+.apoyo{
+  text-align: center;
+}
+.naves{
+  text-transform: uppercase;
+}
+.droides{
+  display: block;
+  margin: auto;
+}
+ul>li{
+  list-style-type: none;
+}
